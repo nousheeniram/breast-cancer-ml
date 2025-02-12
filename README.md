@@ -6,7 +6,7 @@ This project is a **Machine Learning-based Breast Cancer Prediction Model** that
 ## 📌 Features
 - Implements **Multiple ML Models**:
 - - Random Forest Classifier
-  - Logistic Regression  
+  
 - **Data Preprocessing**:
   - Feature scaling
   - Encoding categorical values
@@ -23,4 +23,4 @@ This project is a **Machine Learning-based Breast Cancer Prediction Model** that
 ## ⚙️ Installation & Setup
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/breast-cancer-ml.git
+   git clone https://github.com/nousheeniram/breast-cancer-ml.git
